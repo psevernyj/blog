@@ -27,5 +27,17 @@
     "@types/react": "^16.9.41",
     "@types/react-dom": "^16.9.8",
     "typescript": "^3.9.6"
-  }
+  },
+  "description": "This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/psevernyj/blog.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/psevernyj/blog/issues"
+  },
+  "homepage": "https://github.com/psevernyj/blog#readme"
 }

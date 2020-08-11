@@ -8,6 +8,6 @@ interface posts {
 
 type postsResponse = posts[]
 
-export async function fetchPosts() :Promise<postsResponse> {
-    return await axios.get(`https://simple-blog-api.crew.red/posts`)
+export function fetchPosts() :Promise<postsResponse> {
+    return axios.get(`https://simple-blog-api.crew.red/posts`)
 }
